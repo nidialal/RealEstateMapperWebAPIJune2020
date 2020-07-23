@@ -11,6 +11,7 @@ namespace RealEstateMapperWebAPIJune2020.Controllers
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
     {
+        //Test123
         private static readonly string[] Summaries = new[]
         {
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
